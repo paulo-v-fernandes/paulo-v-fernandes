@@ -7,32 +7,26 @@
 
 <h3 align="center">Hi 👋, I'm a Developer with expertise in cloud computing, parallel computing, and cryptography. 
 I have extensive experience working in agile environments, particularly in cloud and high-performance computing projects.</h3>
-&emsp;
+
 
 -------------------
-&emsp;
-
-- 🌱 I’m currently enhancing my knowledge in **parallel computing with shared memory, Docker, and Kubernetes**.
-
-- 💬 Ask me about **AWS, Docker, Python, Go, Rust, parallel computing, and cryptography**.
 
 &emsp;
 
 ## 🛠️ My Skills
--------------------
-
 ### Programming languages:
 <p align="center">
     <img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
     <img src="https://img.shields.io/badge/-GO-000?&logo=Go" />
     <img src="https://img.shields.io/badge/-Rust-000?&logo=Rust" />
+    <img src="https://img.shields.io/badge/-C-000?&logo=C" />
 </p>
 
 ### Specialized Areas:
 - 🧵 **Multithreading & Parallel Computing with Shared Memory**
 - 🔋 **CUDA for GPU-based computation**
 - 🔒 **Asymmetric Cryptography**
-- 📜 **Queue Systems: Kafka, RabbitMQ**
+- 📜 **Queue Systems: Kafka, RabbitMQ, SQS**
 - ☁️ **Cloud Services: AWS, Kubernetes**
 
 ### Misc Tools:
@@ -45,15 +39,6 @@ I have extensive experience working in agile environments, particularly in cloud
     <img src="https://img.shields.io/badge/-Postman-000?&logo=Postman" />
 </p>
 
-### Services & Frameworks:
-<p align="center">
-    <img src="https://img.shields.io/badge/-Django-000?&logo=Django" />
-    <img src="https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI" />
-    <img src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow" />
-    <img src="https://img.shields.io/badge/-Tkinter-000?&logo=Tkinter" />
-    <img src="https://img.shields.io/badge/-React-000?&logo=React" />
-</p>
-
 ### Databases:
 <p align="center">
     <img src="https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon-DynamoDB" />
@@ -64,7 +49,7 @@ I have extensive experience working in agile environments, particularly in cloud
 
 ### SRE & DevOps:
 <p align="center">
-    <img src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS" />
+    <img src="https://img.shields.io/badge/-AWS-000?&logo=AWS" />
     <img src="https://img.shields.io/badge/-Terraform-000?&logo=Terraform" />
     <img src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes" />
     <img src="https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus" />
