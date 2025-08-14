@@ -102,12 +102,12 @@ I'm passionate about solving complex problems at scale — especially when they 
 ### 💻 Profile Stats
 
 <p align="center">
-    <img alt="Paulovf10's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Paulovf10&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-    <img alt="Paulovf10's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulovf10&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img alt="Paulovf10's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=paulo-v-fernandes&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img alt="Paulovf10's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-v-fernandes&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
 
 <p align="center">
-    <img alt="Paulovf10's GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Paulovf10&theme=tokyonight"/>
+    <img alt="Paulovf10's GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=paulo-v-fernandes&theme=tokyonight"/>
 </p>
 
 ------
