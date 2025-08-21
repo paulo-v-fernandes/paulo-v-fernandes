@@ -5,11 +5,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Scientist with a strong focus on parallel programming and cloud computing.  
+I'm a Computer Scientist with a focus on parallel programming and cloud computing.  
 My main expertise lies in building scalable, high-performance systems using modern cloud architectures, particularly on AWS.
 
-I have hands-on experience with multithreaded development, GPU acceleration via CUDA, and designing secure, distributed systems.  
-My work often involves cryptographic applications, queue-based architectures, and container orchestration with Kubernetes.
+I have hands-on experience with multithreaded development, GPU acceleration via CUDA, designing secure and distributed systems.  
+My work often involves cryptographic applications, queue-based architectures and event-driven architecture.
 
 I'm passionate about solving complex problems at scale — especially when they involve concurrency, cloud-native infrastructure, and performance optimization.
 
@@ -62,10 +62,9 @@ I'm passionate about solving complex problems at scale — especially when they 
 
 ### Specialized Areas:
 - 🧵 **Multithreading & Parallel Computing with Shared Memory**
-- 🔋 **CUDA for GPU-based computation**
 - 🔒 **Asymmetric Cryptography**
 - 📜 **Queue Systems: Kafka, RabbitMQ, SQS**
-- ☁️ **Cloud Services: AWS, Kubernetes**
+- ☁️ **Cloud Services: AWS**
 
 ### Misc Tools:
 <p align="center">
