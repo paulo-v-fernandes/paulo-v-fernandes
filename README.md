@@ -21,23 +21,23 @@ I'm passionate about solving complex problems at scale — especially when they 
 
 <p align="center">
   <!-- Foundational -->
-  <a href="https://www.credly.com/earner/earned/badge/9e20b487-b921-4471-bf15-36b963da6f84" target="_blank" title="AWS Certified Cloud Practitioner">
-    <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified Cloud Practitioner" width="100px" />
+  <a href="https://www.credly.com/badges/9e20b487-b921-4471-bf15-36b963da6f84" target="_blank" title="AWS Certified Cloud Practitioner">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100px" />
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/16572c10-c05f-4668-a082-5ac770b2d362" target="_blank" title="AWS Certified Generative AI – Foundations">
-    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Generative AI – Foundations" width="100px" />
+  <a href="https://www.credly.com/badges/16572c10-c05f-4668-a082-5ac770b2d362" target="_blank" title="AWS Certified Generative AI – Foundations">
+    <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified Generative AI – Foundations" width="100px" />
   </a>
 
   <!-- Associate -->
-  <a href="https://www.credly.com/earner/earned/badge/a9d72c5f-8a5f-48ea-9a43-a931f79aa3e1" target="_blank" title="AWS Certified Solutions Architect – Associate">
+  <a href="https://www.credly.com/badges/3ad9448f-6911-4fd5-b550-cb6cdeef73a0" target="_blank" title="AWS Certified Solutions Architect – Associate">
     <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="100px" />
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/dfe1323d-3c7f-4cff-9b15-35b68af5b99c" target="_blank" title="AWS Certified Developer – Associate">
+  <a href="https://www.credly.com/badges/dfe1323d-3c7f-4cff-9b15-35b68af5b99c" target="_blank" title="AWS Certified Developer – Associate">
     <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="100px" />
   </a>
 
   <!-- Professional -->
-  <a href="https://www.credly.com/earner/earned/badge/a9d72c5f-8a5f-48ea-9a43-a931f79aa3e1" target="_blank" title="AWS Certified Solutions Architect – Professional">
+  <a href="https://www.credly.com/badges/0e1888f6-3b97-4a2d-ae2d-85b2c39d77d4/" target="_blank" title="AWS Certified Solutions Architect – Professional">
     <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" width="100px" />
   </a>
 
