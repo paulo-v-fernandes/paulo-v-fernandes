@@ -101,7 +101,7 @@ I'm passionate about solving complex problems at scale — especially when they 
 
 ### 💻 GitHub Overview
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulo-v-fernandes&theme=tokyonight" height="192px"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-v-fernandes&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&langs_count=8" height="180px" />
 </p>
 
